@@ -27,5 +27,5 @@ This guide will walk you through setting up the project locally on your machine.
 
 3. **Run the Project**
 
-  ```bash
+   ```bash
    npm run dev
