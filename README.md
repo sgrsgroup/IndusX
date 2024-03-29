@@ -29,4 +29,3 @@ This guide will walk you through setting up the project locally on your machine.
 
   ```bash
    npm run dev
-   
